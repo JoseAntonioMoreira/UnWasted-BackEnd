@@ -1,0 +1,13 @@
+io/codeforall/bootcamp/UnWasted/Services/ClientServiceImpl.class
+io/codeforall/bootcamp/UnWasted/DAOS/ClientDaoImpl.class
+io/codeforall/bootcamp/UnWasted/Services/ProducerServiceImpl.class
+io/codeforall/bootcamp/UnWasted/Controllers/ClientController.class
+io/codeforall/bootcamp/UnWasted/DAOS/ProducerDaoImpl.class
+io/codeforall/bootcamp/UnWasted/UnWastedApplication.class
+io/codeforall/bootcamp/UnWasted/Services/ProducerService.class
+io/codeforall/bootcamp/UnWasted/Models/Producer.class
+io/codeforall/bootcamp/UnWasted/DAOS/ClientDAO.class
+io/codeforall/bootcamp/UnWasted/Services/ClientService.class
+io/codeforall/bootcamp/UnWasted/Models/Client.class
+io/codeforall/bootcamp/UnWasted/DAOS/ProducerDAO.class
+io/codeforall/bootcamp/UnWasted/Controllers/ProducerController.class

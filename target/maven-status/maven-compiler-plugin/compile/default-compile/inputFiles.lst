@@ -1,0 +1,13 @@
+/Users/codecadet/Documents/CodeForAll/Final Project/UnWasted/src/main/java/io/codeforall/bootcamp/UnWasted/Controllers/ClientController.java
+/Users/codecadet/Documents/CodeForAll/Final Project/UnWasted/src/main/java/io/codeforall/bootcamp/UnWasted/Controllers/ProducerController.java
+/Users/codecadet/Documents/CodeForAll/Final Project/UnWasted/src/main/java/io/codeforall/bootcamp/UnWasted/DAOS/ClientDAO.java
+/Users/codecadet/Documents/CodeForAll/Final Project/UnWasted/src/main/java/io/codeforall/bootcamp/UnWasted/DAOS/ClientDaoImpl.java
+/Users/codecadet/Documents/CodeForAll/Final Project/UnWasted/src/main/java/io/codeforall/bootcamp/UnWasted/DAOS/ProducerDAO.java
+/Users/codecadet/Documents/CodeForAll/Final Project/UnWasted/src/main/java/io/codeforall/bootcamp/UnWasted/DAOS/ProducerDaoImpl.java
+/Users/codecadet/Documents/CodeForAll/Final Project/UnWasted/src/main/java/io/codeforall/bootcamp/UnWasted/Models/Client.java
+/Users/codecadet/Documents/CodeForAll/Final Project/UnWasted/src/main/java/io/codeforall/bootcamp/UnWasted/Models/Producer.java
+/Users/codecadet/Documents/CodeForAll/Final Project/UnWasted/src/main/java/io/codeforall/bootcamp/UnWasted/Services/ClientService.java
+/Users/codecadet/Documents/CodeForAll/Final Project/UnWasted/src/main/java/io/codeforall/bootcamp/UnWasted/Services/ClientServiceImpl.java
+/Users/codecadet/Documents/CodeForAll/Final Project/UnWasted/src/main/java/io/codeforall/bootcamp/UnWasted/Services/ProducerService.java
+/Users/codecadet/Documents/CodeForAll/Final Project/UnWasted/src/main/java/io/codeforall/bootcamp/UnWasted/Services/ProducerServiceImpl.java
+/Users/codecadet/Documents/CodeForAll/Final Project/UnWasted/src/main/java/io/codeforall/bootcamp/UnWasted/UnWastedApplication.java
